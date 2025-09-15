@@ -12,14 +12,11 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/aadeelyounas">
+  <a href="https://linkedin.com/in/adeelyounas">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
   <a href="https://github.com/aadeelyounas">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-  </a>
-  <a href="mailto:aadeelyounas@example.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974141-216681cd-fd0d-4fab-b5ab-d3e4f4051e92.png"/>
   </a>
   <a href="https://twitter.com/aadeelyounas">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
@@ -37,43 +34,94 @@
 
 ```yaml
 name: Adeel Younas
-located_in: Pakistan
-current_job: Dynamics 365 & Power Platform Developer
+located_in: Milton Keynes, UK
+current_job: Power BI & Power Platform Developer @ TECFOLK SMC LTD
 education:
   [
-    "Masters in Computer Science - University of Bedfordshire (2025)",
-    "BS Computer Science (2018)",
+    "MSc Computer Science - University of Bedfordshire, UK (Jul 2024 – Jul 2025)",
+    "Bachelor of Computer Science - UIIT, AAUR, Pakistan (Sep 2014 – Sep 2018)",
   ]
-experience: "Senior Software Engineer (till 2024)"
+certifications:
+  [
+    "Chartered IT Professional (CITP) - British Computer Society",
+    "Microsoft Power Platform Certifications",
+    "Linux Essentials - Cisco"
+  ]
+
+summary: "Microsoft Power Platform developer with expertise in Dataverse-backed business apps and Power BI dashboards. Skilled in DAX, Power Query, API integration, and agile development."
 
 fields_of_interests:
   [
-    "Web Development",
-    "Mobile Development", 
-    "Backend Development",
-    "Dynamics 365 & Power Platform",
+    "Power Platform Development",
+    "Data Analytics & BI", 
     "AI & Voice Technology",
+    "Cloud Computing",
+    "Automation & DevOps",
     "Open Source"
   ]
   
 technical_background:
   [
-    "Full Stack Development",
-    "Microsoft Dynamics 365",
-    "Power Platform Development",
-    "API Development",
-    "Database Design",
-    "System Architecture"
+    "Power BI: DAX, Power Query, SSRS Reporting, Data Modelling",
+    "Power Platform: Power Apps, Power Automate, Power BI, Copilot Studio",
+    "Programming: Python, SQL, JavaScript, React",
+    "Cloud: Azure AI Foundry, AWS (EC2, CloudFront, LightSail)",
+    "DevOps: Server & DNS Management, Containerisation"
   ]
   
-currently_learning: ["Advanced Power Platform", "AI Integration", "Cloud Computing"]
-2025_goals: ["Master Dynamics 365 Ecosystem", "Contribute to Open Source", "Build AI-powered Solutions"]
+currently_learning: ["Azure AI Foundry", "Advanced Power Platform", "Copilot Studio"]
+2025_goals: ["Master Azure AI Integration", "Contribute to Open Source", "Build AI-powered Business Solutions"]
 hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
+achievements: ["Built tools serving 4M+ users", "Reduced reporting time by 40%", "90% manual effort reduction through automation"]
 ```
 
 ---
 
-## 🚀 Languages and Tools
+## � Professional Experience
+
+### 🏢 Power BI & Power Platform Developer
+**TECFOLK SMC LTD** | Milton Keynes, UK | *Jul 2024 – Present*
+- 🔹 Built Dataverse-backed onboarding, expense tracking, and recruitment apps
+- 📊 Delivered 10+ Power BI dashboards reducing reporting time by 40%
+- 🚀 Architecting scalable solutions that improve governance and reduce manual effort
+
+### 💻 Software Engineer
+**TECFOLK SMC LTD** | Islamabad, Pakistan | *Dec 2021 – Jun 2024*
+- 🤖 Developed automation scripts achieving 90% manual effort reduction
+- 🛒 Built ticket-booking, e-commerce, and real-estate management platforms
+- 🔧 Implemented scalable solutions using modern development practices
+
+### ⚡ Software Engineer
+**Backendz Pvt Ltd** | Islamabad, Pakistan | *Sep 2019 – Nov 2021*
+- 🏗️ Developed Laravel MVC applications with robust architecture
+- 📈 Improved performance scores from 65 to 90+
+- ⚡ Implemented Redis caching and queue workers (35% faster responses)
+
+### 🌱 Junior Software Engineer
+**TechBevy LLC** | Remote | *Jun 2018 – Aug 2019*
+- 💳 Integrated Stripe, Mailchimp, and automated workflows
+- 🌐 Managed 20+ WordPress sites, backups, and cron jobs
+- 🔄 Built automated solutions for client workflow optimization
+
+---
+
+## 🎓 Education & Certifications
+
+### 🎓 Education
+- **MSc Computer Science** - University of Bedfordshire, UK (Jul 2024 – Jul 2025)
+- **Bachelor of Computer Science** - UIIT, AAUR, Pakistan (Sep 2014 – Sep 2018)
+
+### 🏆 Certifications
+- **Chartered IT Professional (CITP)** - British Computer Society
+- **Microsoft Power Platform Certifications:**
+  - Power Automate (Automated Processes)
+  - Power Apps & Dataverse (Canvas and Model-Driven Apps)
+  - Copilot Studio (Agent Development)
+- **Linux Essentials** - Cisco
+
+---
+
+## �🚀 Languages and Tools
 
 <p align="center">
   <!-- Programming Languages -->
@@ -124,20 +172,6 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
 
 ---
 
-## 🐍 GitHub Activity Graph
-
-![Snake animation](https://github.com/aadeelyounas/aadeelyounas/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadeelyounas&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -148,6 +182,9 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
 
 ## 💼 Featured Projects
 
+### 🤖 VoiceAI Agent (2025)
+Real-time Conversational AI platform with STT → LLM → TTS pipeline, Dockerised for low-latency performance.
+
 <div align="center">
   <a href="https://github.com/aadeelyounas/VoiceAIAgent-final-clean">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadeelyounas&repo=VoiceAIAgent-final-clean&theme=radical" alt="Voice AI Agent" />
@@ -156,6 +193,9 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadeelyounas&repo=ShiftTracker&theme=radical" alt="Shift Tracker" />
   </a>
 </div>
+
+### 🖥️ CPU-GPU Bottleneck Calculator (2023-Present)
+Web tool serving **4M+ users**, optimised with Redis caching and automated ETL jobs.
 
 <div align="center">
   <a href="https://github.com/aadeelyounas/welfaretracker">
@@ -166,26 +206,15 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
   </a>
 </div>
 
----
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Web Applications with React and Node.js](#)
-- [Understanding Microservices Architecture](#)
-- [Getting Started with Docker for Developers](#)
-- [Best Practices for API Development](#)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Connect with me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadeelyounas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeelyounas/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadeelyounas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadeelyounas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeel@techwafer.com)
 
 </div>
 
@@ -201,13 +230,13 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
 
 ## 🎯 Current Focus
 
-- 🔭 I'm currently working on **Dynamics 365 & Power Platform Development**
-- 🌱 I'm currently learning **Advanced Power Platform & AI Integration**
-- 👯 I'm looking to collaborate on **Open Source Projects & AI Solutions**
-- 🤔 I'm looking for help with **Advanced Dynamics 365 Customizations**
-- 💬 Ask me about **Dynamics 365, Power Platform, Web Development, and AI**
+- 🔭 I'm currently working on **Power BI Dashboards & Dataverse-backed Business Apps**
+- 🌱 I'm currently learning **Azure AI Foundry & Advanced Copilot Studio**
+- 👯 I'm looking to collaborate on **AI-powered Business Solutions & Open Source Projects**
+- 🤔 I'm looking for help with **Advanced Power Platform Integrations**
+- 💬 Ask me about **Power Platform, Power BI, DAX, AI Voice Applications, and Automation**
 - 📫 How to reach me: **aadeelyounas@gmail.com**
-- ⚡ Fun fact: **I love building AI-powered voice applications! 🤖🎙️**
+- ⚡ Fun fact: **I built a tool that serves 4M+ users and reduced reporting time by 40%! 📊🚀**
 
 ---
 

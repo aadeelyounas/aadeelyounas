@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Dynamics 365 & Power Platform Developer - Profile Stats
 
 on:
   schedule: # execute every 12 hours
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Update GitHub Profile Stats - Dynamics 365 & Power Platform Developer
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
