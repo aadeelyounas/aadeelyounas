@@ -38,34 +38,36 @@
 ```yaml
 name: Adeel Younas
 located_in: Pakistan
-current_job: Software Developer
+current_job: Dynamics 365 & Power Platform Developer
 education:
   [
-    "Self-taught Developer",
-    "Computer Science Enthusiast",
+    "Masters in Computer Science - University of Bedfordshire (2025)",
+    "BS Computer Science (2018)",
   ]
-company: Growing Developer
+experience: "Senior Software Engineer (till 2024)"
 
 fields_of_interests:
   [
     "Web Development",
     "Mobile Development", 
     "Backend Development",
-    "DevOps",
-    "Machine Learning",
+    "Dynamics 365 & Power Platform",
+    "AI & Voice Technology",
     "Open Source"
   ]
   
 technical_background:
   [
     "Full Stack Development",
+    "Microsoft Dynamics 365",
+    "Power Platform Development",
     "API Development",
     "Database Design",
     "System Architecture"
   ]
   
-currently_learning: ["Advanced React Patterns", "Cloud Computing", "Microservices"]
-2025_goals: ["Contribute to Open Source", "Build SaaS Products", "Master Cloud Architecture"]
+currently_learning: ["Advanced Power Platform", "AI Integration", "Cloud Computing"]
+2025_goals: ["Master Dynamics 365 Ecosystem", "Contribute to Open Source", "Build AI-powered Solutions"]
 hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
 ```
 
@@ -78,31 +80,29 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
-  
   <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="45" height="45"/>
   
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/>
   
   <!-- Cloud & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  
+  <!-- Microsoft Stack -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-dynamics-365.png" alt="dynamics365" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="45" height="45"/>
   
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
 </p>
 
@@ -149,11 +149,20 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/aadeelyounas/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadeelyounas&repo=awesome-project-1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/aadeelyounas/VoiceAIAgent-final-clean">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadeelyounas&repo=VoiceAIAgent-final-clean&theme=radical" alt="Voice AI Agent" />
   </a>
-  <a href="https://github.com/aadeelyounas/awesome-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadeelyounas&repo=awesome-project-2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/aadeelyounas/ShiftTracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadeelyounas&repo=ShiftTracker&theme=radical" alt="Shift Tracker" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/aadeelyounas/welfaretracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadeelyounas&repo=welfaretracker&theme=radical" alt="Welfare Tracker" />
+  </a>
+  <a href="https://github.com/aadeelyounas/sadaqah">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadeelyounas&repo=sadaqah&theme=radical" alt="Sadqah Management" />
   </a>
 </div>
 
@@ -175,9 +184,8 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadeelyounas)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aadeelyounas)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadeelyounas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadeelyounas@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadeelyounas@gmail.com)
 
 </div>
 
@@ -193,13 +201,13 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
 
 ## 🎯 Current Focus
 
-- 🔭 I'm currently working on **Full Stack Development Projects**
-- 🌱 I'm currently learning **Cloud Computing & DevOps**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤔 I'm looking for help with **System Design & Architecture**
-- 💬 Ask me about **Web Development, APIs, and Database Design**
-- 📫 How to reach me: **aadeelyounas@example.com**
-- ⚡ Fun fact: **I debug with console.log() and I'm proud of it! 😄**
+- 🔭 I'm currently working on **Dynamics 365 & Power Platform Development**
+- 🌱 I'm currently learning **Advanced Power Platform & AI Integration**
+- 👯 I'm looking to collaborate on **Open Source Projects & AI Solutions**
+- 🤔 I'm looking for help with **Advanced Dynamics 365 Customizations**
+- 💬 Ask me about **Dynamics 365, Power Platform, Web Development, and AI**
+- 📫 How to reach me: **aadeelyounas@gmail.com**
+- ⚡ Fun fact: **I love building AI-powered voice applications! 🤖🎙️**
 
 ---
 
