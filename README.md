@@ -6,7 +6,7 @@
 <!-- Title with typing animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Adeel+Younas;Dynamics+365+%26+Power+Platform+Developer;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Adeel+Younas;Dynamics 365 &; Power Platform Developer;&center=true&size=30">
   </a>
 </h1>
 
@@ -133,7 +133,9 @@ achievements: ["Built tools serving 4M+ users", "Reduced reporting time by 40%",
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="45" height="45"/>
-  
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png" alt="microsoft-power-apps"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-apps-2020.png" alt="microsoft-power-apps-2020"/>
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
@@ -163,10 +165,6 @@ achievements: ["Built tools serving 4M+ users", "Reduced reporting time by 40%",
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadeelyounas&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadeelyounas&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
