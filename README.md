@@ -6,7 +6,7 @@
 <!-- Title with typing animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Adeel+Younas;Software+Developer;Always+learning+new+things&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Adeel+Younas;Dynamics 365 &; Power Platform Developer;&center=true&size=30">
   </a>
 </h1>
 
@@ -140,13 +140,12 @@ achievements: ["Built tools serving 4M+ users", "Reduced reporting time by 40%",
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/>
   
   <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   
   <!-- Microsoft Stack -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-dynamics-365.png" alt="dynamics365" width="45" height="45"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-dynamics-365.png" alt="microsoft-dynamics-365"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="45" height="45"/>
   
   <!-- Tools -->
