@@ -227,7 +227,7 @@ Web tool serving **4M+ users**, optimised with Redis caching and automated ETL j
 - 👯 I'm looking to collaborate on **AI-powered Business Solutions & Open Source Projects**
 - 🤔 I'm looking for help with **Advanced Power Platform Integrations**
 - 💬 Ask me about **Power Platform, Power BI, DAX, AI Voice Applications, and Automation**
-- 📫 How to reach me: **aadeelyounas@gmail.com**
+- 📫 How to reach me: **adeel@techwafer.com**
 - ⚡ Fun fact: **I built a tool that serves 4M+ users and reduced reporting time by 40%! 📊🚀**
 
 ---
